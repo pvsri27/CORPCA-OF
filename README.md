@@ -1,6 +1,8 @@
 # CORPCA-OF
 Code base for video foreground background separation algorithm: CORPCA-OF
 
+Please look up https://github.com/huynhlvd/corpca-of for more info.
+
 1. Open CMake GUI
 2. Drag and drop CmakeLists.txt from the "CORPCA-OF" folder into CMake
 3. Select output path, type in "build" after the path
