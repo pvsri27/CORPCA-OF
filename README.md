@@ -27,15 +27,16 @@ NOTE:
 * For every sequence in TRACK, create a new folder inside the prior folder
 Here is a sample folder structure:
 
--TRACK
----Bootstrap
----Curtain
----prior (to be created)
-----Bootstrap (to be created)
-----Curtain (to be created)
----- ...
---- ...
--outDataOF
----Bootstrap (to be created)
----Curtain (to be created)
---- ...
+- TRACK
+    * Bootstrap 
+    * Curtain 
+    * ...
+    * prior 
+      + Bootstrap (to be created)
+      + Curtain (to be created)
+      + ...
+- outDataOF
+    * Bootstrap (to be created)
+    * Curtain (to be created)
+    * ...
+
